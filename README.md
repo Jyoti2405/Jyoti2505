@@ -17,6 +17,12 @@ Currently, I am building my skills step by step through practice and projects.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://www.linkedin.com/in/jyoti-dixit-401874363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
+
+
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto: divyadixit15253@gmail.com)
 
 
