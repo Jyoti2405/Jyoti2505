@@ -31,4 +31,4 @@ Currently, I am building my skills step by step through practice and projects.
 
 ---
 
-✨ *Thank you for visiting my GitHub profile!*# Jyoti2505
+✨ *Thank you for visiting my GitHub profile!*# Jyoti2405
